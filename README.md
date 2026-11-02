@@ -1,4 +1,4 @@
-# AX-Discrimination-Logistics-Regression
+# AX-Discrimination-Logistic-Regression
 R code for logistic regression analyses of AX discrimination responses in a cross-linguistic speech perception study.
 
 
