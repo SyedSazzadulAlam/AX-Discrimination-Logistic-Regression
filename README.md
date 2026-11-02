@@ -19,7 +19,7 @@ The repository contains three complementary analyses of AX discrimination perfor
 ### `discrimination_logistic_regression.R`
 Analyzes binary correct/incorrect AX responses using logistic regression.
 
-### `dprime_analysis.R`
+### `Dprime_Codes.R`
 Calculates signal-detection sensitivity measures from discrimination responses.
 
 ### `reaction_time_analysis.R`
